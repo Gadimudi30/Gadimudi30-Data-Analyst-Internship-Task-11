@@ -1,0 +1,10 @@
+A/B Testing Result
+
+Control rate: 0.3992
+Test rate: 0.3907
+Difference: -0.0085
+P-value: 0.396246
+95% CI: [-0.0280, 0.0111]
+
+Decision: NOT statistically significant
+Recommendation: Keep current version since improvement is not significant.
